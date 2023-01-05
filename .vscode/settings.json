@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "sbeki",
+        "projectKey": "sbeki_mslearn-tailspin-spacegame-web"
+    }
+}
